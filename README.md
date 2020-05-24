@@ -1,5 +1,5 @@
 # DS_ML_Model_Studies
-Testing and Comparing Model Performance
+Comparing Models
 
 
 1. Logistic Regression
