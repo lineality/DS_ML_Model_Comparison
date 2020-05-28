@@ -3,6 +3,6 @@ Comparing Models
 
 Models
 
-1. Logistic Regression
+1. Regressions
 
 2. Auto-encoder NN
