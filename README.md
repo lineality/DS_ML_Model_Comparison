@@ -1,6 +1,9 @@
 # DS_ML_Model_Studies
 Comparing Models
 
+probability: 
+logistic regression and neural networks
+
 Models
 
 1. Regressions
