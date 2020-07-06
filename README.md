@@ -9,3 +9,7 @@ Models
 1. Regressions
 
 2. Auto-encoder NN
+
+3. Loss Functions
+
+4. Recommendation Systems
