@@ -12,4 +12,12 @@ Models
 
 3. Loss Functions
 
+4. Probability and Statistics
+
+...
+
 4. Recommendation Systems
+
+5. Time Series Forcasting
+
+6. NLP
