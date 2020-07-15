@@ -12,7 +12,7 @@ Models
 
 3. Loss Functions
 
-4. Probability and Statistics
+4. Probability and Statistics (inferential)
 
 ...
 
